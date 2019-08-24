@@ -1,4 +1,4 @@
-'atom-workspace': [{label: 'Help', command: 'application:open-documentation'}]
+you;re documents /are beign /prepare'/they will be ready 11pm/'atom-workspace': [{label: 'Help', command: 'application:open-documentation'}]
 'atom-text-editor': [{
   label: 'History',
   submenu: [
