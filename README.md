@@ -1,12 +1,16 @@
+<<<<<<< HEAD
 'atom-workspace', command: 'application:open-documentation'}]
 'atom-text-editor': [{
   label: 'History',
   submenu: [
+=======
+you;re documents /are beign /prepare'/they will be ready MONDAY
+>>>>>>> master
     {label: 'Undo', command:'core:undo'}
     {label: 'Redo', command:'core:redo'}
   ]
 }]# chasebankHoraciodGcompleted'context-menu':
-  'atom-workspace': [{label: 'Help', command: 'application:open-documentation'}]
+  'atom-workspace':
   ...
   'atom-text-editor':
     'ctrl-left': 'editor:move-to-beginning-of-word'
