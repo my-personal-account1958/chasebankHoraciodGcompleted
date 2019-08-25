@@ -1,4 +1,4 @@
-'atom-workspace': [{label: 'Help', command: 'application:open-documentation'}]
+'atom-workspace', command: 'application:open-documentation'}]
 'atom-text-editor': [{
   label: 'History',
   submenu: [
